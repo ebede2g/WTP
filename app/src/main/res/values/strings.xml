@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WTP</string>
+    <string name="hint">ПідКаЗКАа ДЛЯ ОДМІНІВ:\nсисадмін Марк, password = 4484\nрабатяга Антон, password = 1555\nмученик Равель, password = 6616</string>
+    <string name="nameAnton">Anton</string>
+    <string name="nameMark">Mark</string>
+    <string name="nameRavel">Ravel</string>
+    <string name="AntonsMONEY">150</string>
+    <string name="MarksMONEY">200</string>
+    <string name="RavelsMONEY">4</string>
+
+</resources>
